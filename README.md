@@ -94,6 +94,7 @@ In all cases:
 
 Running Locally:
 
-Repository Link:
+Repository Link: https://github.com/Aiden-Is-Cool/CISC-121-Final-Project
 
 Hugging Face Link: https://9dd26e88b59b249595.gradio.live/
+
