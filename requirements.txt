@@ -1,0 +1,4 @@
+requirements:
+
+python>=3.9
+gradio>=4.0.0
