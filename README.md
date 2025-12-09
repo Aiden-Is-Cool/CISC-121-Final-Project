@@ -23,7 +23,7 @@ Problem Breakdown & Computational Thinking:
 Decomposition:
 
 - Generate a sorted list
-- Track the search range (`low`, `high`)
+- Track the search range (low, high)
 - Compute the midpoint
 - Compare the midpoint value with the target
 - Update the search range
@@ -97,4 +97,5 @@ Running Locally:
 Repository Link: https://github.com/Aiden-Is-Cool/CISC-121-Final-Project
 
 Hugging Face Link: https://9dd26e88b59b249595.gradio.live/
+
 
